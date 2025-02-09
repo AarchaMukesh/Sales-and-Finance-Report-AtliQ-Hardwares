@@ -6,24 +6,20 @@ This project provides an in-depth analysis of AtliQ Hardwares' sales and financi
 ## Project Objectives
 
 ### 1. Sales Report  
-**Objective:**  
-Analyze overall sales performance, customer trends, and market insights to drive data-driven decision-making for business growth.
 
 #### a) Customer Performance Report  
-- **Objective:** Analyze customer purchasing patterns, retention rates, and revenue contribution to identify key customers and optimize sales strategies for improved customer engagement and profitability.
+- **Objective:** To analyze net sales performance across all customer segments, identify key growth areas and underperforming accounts, and inform strategic decisions regarding customer relationship management and sales strategies for AtliQ Hardwares.
 
 #### b) Market Performance and Sales Target Comparison  
-- **Objective:** Evaluate market-wise sales performance against set targets, identifying growth opportunities and areas for improvement to enhance market penetration and sales efficiency.
+- **Objective:** To evaluate AtliQ Hardwares' sales performance against established targets for each market, pinpoint areas of significant variance, and provide insights into market-specific trends to guide corrective actions and strategic planning.
 
 ### 2. Finance Report  
-**Objective:**  
-Assess financial performance through profit and loss analysis, enabling strategic decision-making for cost management and profitability optimization.
 
 #### a) Profit and Loss (P&L) Report by Fiscal Years and Months  
-- **Objective:** Assess financial performance over different fiscal periods, providing insights into revenue trends, cost structures, and profitability to support strategic financial planning and decision-making.
+- **Objective:** To provide a comprehensive overview of AtliQ Hardwares' financial performance over three fiscal years, highlighting trends in net sales, cost of goods sold, and gross margin, and enabling detailed analysis of quarterly and monthly fluctuations for informed decision-making.
 
 #### b) Profit and Loss (P&L) Report by Markets  
-- **Objective:** Analyze profitability across different markets, identifying high-performing and underperforming regions to optimize resource allocation and improve financial outcomes.
+- **Objective:** To analyze the profitability of AtliQ Hardwares across different markets by examining net sales, cost of goods sold, and gross margin, identifying variations in performance, and informing strategic decisions regarding market prioritization and resource allocation.
 
 ## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
