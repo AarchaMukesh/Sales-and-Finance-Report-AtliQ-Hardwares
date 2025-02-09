@@ -25,7 +25,7 @@ Assess financial performance through profit and loss analysis, enabling strategi
 #### b) Profit and Loss (P&L) Report by Markets  
 - **Objective:** Analyze profitability across different markets, identifying high-performing and underperforming regions to optimize resource allocation and improve financial outcomes.
 
-## Technical & Soft Skills:
+## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
